@@ -1,4 +1,10 @@
+wandb/
 data/
+models/
+*.pth
+*.pkl
+
+
 
 *.bak
 .gitattributes
